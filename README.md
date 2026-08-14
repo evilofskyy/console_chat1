@@ -6,6 +6,7 @@
 Для работы сервера вам понадобится библиотека SQLite. 
 1. Скачайте файлы `sqlite3.h` и `sqlite3.c` с официального сайта SQLite: https://www.sqlite.org/download.html (выберите раздел "Source Code", скачайте архив sqlite-amalgamation).
 2. Распакуйте и положите эти 2 файла в одну папку с исходным кодом (рядом с `chat_server.cpp`).
+3. Создайте папку data
 
 ## Компиляция в Windows (Visual Studio Developer Command Prompt)
 1. Открыть **Developer Command Prompt for VS 2022**.
